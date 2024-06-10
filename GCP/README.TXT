@@ -6,3 +6,5 @@ Use terraform documentation as your guide
 
 us-docker.pkg.dev/cloudrun/container/job:latest
 
+
+set your provider version
